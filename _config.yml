@@ -2,6 +2,9 @@ title: Milton Baptista
 description: Professor do Instituto Federal Fluminense
 theme: minima
 
+minima:
+  skin: classic
+
 author:
   name: Milton Baptista
   email: mfilho@iff.edu.br
