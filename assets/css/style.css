@@ -1,0 +1,75 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+  font-family: "Segoe UI", Roboto, Arial, sans-serif;
+  background-color: #f2f4f7; /* cinza claro */
+  color: #1f2933;            /* preto suave */
+  line-height: 1.6;
+}
+
+/* Cabeçalho */
+.site-header {
+  background-color: #e5e7eb; /* cinza um pouco mais escuro */
+  padding: 2.5rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid #d1d5db;
+}
+
+.site-header h1 {
+  color: #0f172a; /* azul marinho */
+  font-size: 2.2rem;
+  font-weight: 600;
+}
+
+/* Conteúdo principal */
+.content {
+  max-width: 900px;
+  margin: 3rem auto;
+  background-color: #ffffff;
+  padding: 2.5rem 3rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Títulos */
+.content h2 {
+  color: #0f172a;
+  margin-top: 2rem;
+  margin-bottom: 0.8rem;
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.3rem;
+}
+
+/* Parágrafos e listas */
+.content p,
+.content ul {
+  margin-bottom: 1rem;
+}
+
+.content ul {
+  padding-left: 1.2rem;
+}
+
+/* Links */
+a {
+  color: #1d4ed8; /* azul institucional */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Rodapé */
+.site-footer {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  color: #4b5563;
+  font-size: 0.9rem;
+}
