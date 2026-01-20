@@ -76,7 +76,7 @@ a <strong>Licenciatura em Ciências da Natureza</strong> e o
 
 <hr style="border: none; border-top: 1px solid #d0d6dc;">
 
-<h2 style="color:#0b3c5d;">Contato e perfis acadêmicos</h2>
+<h2 style="color:#0b3c5d;">Perfis acadêmicos</h2>
 
 <ul>
   <li>
