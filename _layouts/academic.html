@@ -25,6 +25,10 @@
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
+
+
+
+  
 <body>
 
   <header class="site-header">
@@ -39,5 +43,23 @@
     <p>© {{ site.time | date: "%Y" }} — Milton Baptista</p>
   </footer>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const ebookLinks = document.querySelectorAll(".ebook-link");
+
+  ebookLinks.forEach(function(link) {
+    link.addEventListener("click", function () {
+      if (typeof gtag === "function") {
+        gtag("event", "download_ebook", {
+          event_category: "Ebook",
+          event_label: link.href
+        });
+      }
+    });
+  });
+});
+</script>
+
+  
 </body>
 </html>
