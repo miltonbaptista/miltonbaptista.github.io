@@ -6,7 +6,7 @@ title: Links — Milton Baptista
 ## 🔗 Meus links
 
 - 📘 **E-book**
-  - https://github.com/idmilton/Pocketlab
+  - [https://github.com/idmilton/Pocketlab](https://github.com/idmilton/Pocketlab/releases/tag/Experimentos)
 
 - 🌐 **Site pessoal**
   - https://miltonbaptista.github.io
