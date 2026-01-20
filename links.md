@@ -1,5 +1,5 @@
 ---
-layout: academic
+layout: default
 title: Links — Milton Baptista
 ---
 
