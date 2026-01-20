@@ -1,3 +1,9 @@
+---
+layout: default
+title: Milton Baptista
+---
+
+
 <div style="font-family: Arial, Helvetica, sans-serif; color:#1f1f1f; max-width: 900px; margin: auto; line-height: 1.6;">
 
 <h1 style="color:#0b3c5d; border-bottom: 3px solid #c0cbd6; padding-bottom: 6px;">
