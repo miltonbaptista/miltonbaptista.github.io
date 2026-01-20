@@ -6,7 +6,7 @@ title: Milton Baptista
 # Milton Baptista
 
 **Professor do Instituto Federal Fluminense — Campus Campos Centro**  
-Licenciado em Física, Mestre e Doutor em Ciências Naturais  
+Licenciado em Física (2005), Mestre (2007) e Doutor em Ciências Naturais (2011)  
 
 📧 [mfilho@iff.edu.br](mailto:mfilho@iff.edu.br)  
 🔗 [Perfil no Integra IFF](https://integra.iff.edu.br/p/milton-baptista-filho)
@@ -23,7 +23,9 @@ Atuo na área de **Ensino de Física**, com interesse em:
 
 Leciono disciplinas de Física para o **Ensino Médio Integrado**,  
 a **Licenciatura em Ciências da Natureza** e o  
-**Mestrado Nacional Profissional em Ensino de Física**.
+**Mestrado Nacional Profissional em Ensino de Física**,
+
+Atuo como revisor de periódicos na área de ensino de física,
 
 ---
 
@@ -31,14 +33,15 @@ a **Licenciatura em Ciências da Natureza** e o
 
 - Uso de aplicativos de smartphone na realização de experimentos didáticos voltados ao ensino de Física  
 - Sensores e microcontroladores em atividades didáticas  
-- Desenvolvimento de projetos com microcontroladores para o ensino de Física e criações tecnológicas variadas  
+- Desenvolvimento de projetos com microcontroladores para o ensino de Física e criações tecnológicas variadas,
+- Atualmente está em desenvolvimento um protótipo para medida de etileno em fluxo em tempo real,
 
 ---
 
 ## Materiais
 
-- [E-book](https://github.com/idmilton/Pocketlab/releases/tag/Experimentos){: .ebook-link } 
-- [Repositórios educacionais no GitHub](https://github.com/idmilton)
+- [E-book contendo experimentos didáticos a partir do smartphone:](https://github.com/idmilton/Pocketlab/releases/tag/Experimentos){: .ebook-link } 
+- [Repositórios educacionais no GitHub com descrição de projetos desenvolvidos nos últimos quatro anos](https://github.com/idmilton)
 
 ---
 
