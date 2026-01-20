@@ -37,7 +37,7 @@ a **Licenciatura em Ciências da Natureza** e o
 
 ## Materiais
 
-- [E-book](https://github.com/idmilton/Pocketlab)  
+- [E-book](https://github.com/idmilton/Pocketlab/releases/tag/Experimentos)  
 - [Repositórios educacionais no GitHub](https://github.com/idmilton)
 
 ---
