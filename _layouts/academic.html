@@ -3,21 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
 
-<header class="site-header">
-  <h1>{{ page.title }}</h1>
-</header>
+  <header class="site-header">
+    <h1>{{ page.title }}</h1>
+  </header>
 
-<main class="content">
-  {{ content }}
-</main>
+  <main class="content">
+    {{ content }}
+  </main>
 
-<footer class="site-footer">
-  <p>© {{ site.time | date: "%Y" }} — Milton Baptista</p>
-</footer>
+  <footer class="site-footer">
+    <p>© {{ site.time | date: "%Y" }} — Milton Baptista</p>
+  </footer>
 
 </body>
 </html>
