@@ -18,7 +18,7 @@ Licenciado em Física, Mestre e Doutor em Ciências Naturais<br>
 mfilho@iff.edu.br
 </a>
 
-<a href="[https://github.com/idmilton/Pocketlab](https://integra.iff.edu.br/p/milton-baptista-filho)" target="_blank" style="color:#0b3c5d;">
+<a href="https://integra.iff.edu.br/p/milton-baptista-filho" target="_blank" style="color:#0b3c5d;">
       Integra IFF
     </a>
   
