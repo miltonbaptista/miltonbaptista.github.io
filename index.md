@@ -28,8 +28,8 @@ Leciono disciplinas de Física para o **Ensino Médio Integrado**, a **Licenciat
 
 ## Materiais
  
-- [E-book]()
-- [Repositórios educacionais no GitHub](https://github.com/miltonbaptista)
+- [E-book](https://github.com/idmilton/Pocketlab)
+- [Repositórios educacionais no GitHub](https://github.com/idmilton))
 
 ---
 
