@@ -3,3 +3,17 @@
   font-weight: 500;
   color: #2c3e50; /* azul acinzentado institucional */
 }
+
+/* Fundo geral do site */
+body {
+  background-color: #f2f4f6; /* cinza claro */
+}
+
+/* Área principal do conteúdo */
+.wrapper,
+.page-content {
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.04);
+}
