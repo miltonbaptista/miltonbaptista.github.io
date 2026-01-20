@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: academic
 title: Milton Baptista
 ---
 
