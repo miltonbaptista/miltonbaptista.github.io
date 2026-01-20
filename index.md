@@ -5,13 +5,11 @@ title: Milton Baptista
 
 # Milton Baptista
 
-**Professor do Instituto Federal Fluminense**
+**Professor do Instituto Federal Fluminense — Campus Campos Centro**  
+Licenciado em Física, Mestre e Doutor em Ciências Naturais  
 
-<div class="instituicao">
-Instituto Federal Fluminense — Campus Campos Centro
-</div>
-
-📧 <a href="mailto:mfilho@iff.edu.br">mfilho@iff.edu.br</a>
+📧 [mfilho@iff.edu.br](mailto:mfilho@iff.edu.br)  
+🔗 [Perfil no Integra IFF](https://integra.iff.edu.br/p/milton-baptista-filho)
 
 ---
 
@@ -39,18 +37,16 @@ a **Licenciatura em Ciências da Natureza** e o
 
 ## Materiais
 
-- 📘 [E-book](https://github.com/idmilton/Pocketlab)  
-- 💻 [Repositórios educacionais no GitHub](https://github.com/idmilton)
+- [E-book](https://github.com/idmilton/Pocketlab)  
+- [Repositórios educacionais no GitHub](https://github.com/idmilton)
 
 ---
 
 ## Contato e perfis acadêmicos
 
-- 🔗 [Currículo Lattes](http://lattes.cnpq.br/5207922830903121)  
-- 🔗 [ORCID](https://orcid.org/0000-0002-4035-436X)
+- [Currículo Lattes](http://lattes.cnpq.br/5207922830903121)  
+- [ORCID](https://orcid.org/0000-0002-4035-436X)
 
 ---
 
-<footer class="rodape">
-© 2026 — <strong>Milton Baptista</strong>
-</footer>
+© 2026 — **Milton Baptista**
