@@ -17,9 +17,9 @@ Licenciado em Física, Mestre e Doutor em Ciências Naturais
 
 Atuo na área de **Ensino de Física**, com interesse em:
 
-- experimentação didática  
-- tecnologias educacionais  
-- gestão democrática da educação  
+- Experimentos didáticos, 
+- Tecnologias educacionais,  
+- Inovação,
 
 Leciono disciplinas de Física para o **Ensino Médio Integrado**,  
 a **Licenciatura em Ciências da Natureza** e o  
